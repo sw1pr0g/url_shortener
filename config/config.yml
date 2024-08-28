@@ -1,0 +1,6 @@
+app:
+  name: 'url_shortener'
+  version: '0.0.1'
+
+http:
+  port: '8080'
